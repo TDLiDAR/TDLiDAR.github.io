@@ -1,17 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Landing site -->
   <url><loc>https://tdlidar.github.io/</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
-
-  <!-- Docs — same host, so they index under the same banner -->
   <url><loc>https://tdlidar.github.io/DOC/</loc><lastmod>2026-07-13</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://tdlidar.github.io/DOC/install.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://tdlidar.github.io/DOC/app-guide.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://tdlidar.github.io/DOC/operators.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/align-mode.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/app-guide.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://tdlidar.github.io/DOC/connecting.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tdlidar.github.io/DOC/lidar-settings.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tdlidar.github.io/DOC/point-cloud-settings.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tdlidar.github.io/DOC/show-control-mode.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://tdlidar.github.io/DOC/osc-reference.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/cue-deck-mode.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://tdlidar.github.io/DOC/faq.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/install.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/lidar-mode.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/lidar-settings.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/mesh-cloud-mode.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/monocular-depth-mode.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/operators.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/osc-reference.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/osc-sensor-guide.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/performance-pro.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/point-cloud-mode.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/point-cloud-settings.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/scene-build-mode.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/sensors-mode.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/show-control-mode.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_accel.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_activity.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_airpods.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_align.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_ambient.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_animal.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_arbody.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_armesh.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_attitude.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_audio.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_backdist.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_barometer.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_battery.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_body.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_brightness.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_cam_exposure.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_cue.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_depth.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_devicepose.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_face.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_frontdist.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_gesture.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_gravity.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_gyro.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_hand.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_lowpower.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_magnetometer.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_mic_level.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_ndi_in.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_nfc.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_ocr.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_pencil.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_pinch.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_planes.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_pointcloud_tcp.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_proximity.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_qr.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_rect_detect.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_rectangle.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_remote.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_saliency.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_scene_room.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_show.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_sound.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_speech.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_thermal.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_touch.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tdlidar.github.io/DOC/tdlidar_watch.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>
