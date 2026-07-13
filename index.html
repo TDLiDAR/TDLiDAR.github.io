@@ -62,7 +62,9 @@
   .hero h1 { font-size:2.6rem; margin:1rem 0 .3rem; color:#fff; letter-spacing:.01em; }
   .tagline { font-size:1.08rem; color:var(--dim); max-width:640px; margin:0 auto 1.3rem; }
   .cta { display:flex; gap:.7rem; justify-content:center; flex-wrap:wrap; align-items:center; }
-  .appstore-badge img { height:52px; width:auto; display:block; }
+  /* Mirror pill — inverted colours of the default .btn so App Store + Docs sit as a matched pair */
+  .btn.mirror { background:#fff; color:#000; border-color:#fff; }
+  .btn.mirror:hover { background:#fff; color:var(--blue); border-color:var(--blue); box-shadow:0 0 0 1px var(--blue); }
   .hr { border:0; border-top:1px solid var(--line); margin:2.4rem 0; }
 
   /* Section headings */
@@ -127,8 +129,9 @@
     <h1>TDLiDAR</h1>
     <p class="tagline">Turn an iPhone into ~40 live sensors inside TouchDesigner — with one drag-and-drop.</p>
     <div class="cta">
-      <a class="appstore-badge" href="https://apps.apple.com/us/app/tdlidar/id6760954732" target="_blank" rel="noopener">
-        <img src="assets/app-store-badge.svg" alt="Download TDLiDAR on the App Store">
+      <a class="btn mirror" href="https://apps.apple.com/us/app/tdlidar/id6760954732" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M17.05 12.04c-.03-2.6 2.12-3.85 2.22-3.91-1.21-1.77-3.09-2.01-3.76-2.04-1.6-.16-3.12.94-3.93.94-.81 0-2.06-.92-3.39-.89-1.74.03-3.35 1.01-4.25 2.57-1.81 3.14-.46 7.79 1.3 10.34.86 1.25 1.89 2.65 3.23 2.6 1.3-.05 1.79-.84 3.36-.84 1.57 0 2.01.84 3.39.81 1.4-.02 2.29-1.27 3.15-2.53.99-1.45 1.4-2.85 1.42-2.93-.03-.01-2.72-1.04-2.75-4.13M14.53 4.85c.71-.86 1.19-2.06 1.06-3.25-1.02.04-2.26.68-3 1.54-.66.76-1.24 1.98-1.08 3.15 1.14.09 2.31-.58 3.02-1.44"/></svg>
+        App&nbsp;Store
       </a>
       <a class="btn" href="https://tdlidar.github.io/DOC/" target="_blank" rel="noopener">Read the Docs →</a>
     </div>
@@ -177,6 +180,7 @@
         <div class="flow-item"><b>Point cloud → TCP</b><p>Up to 50k lossless XYZ+RGB points over <span class="port">TCP</span> into a POP.</p></div>
       </div>
       <p class="lead">The phone and the computer just need to be on the same network. Drop an operator, point the phone, and the tile shows live data.</p>
+      <p class="lead">Not on TouchDesigner? TDLiDAR's <b>Point Cloud mode</b> also streams straight into <a href="https://www.arkestra.app/download" target="_blank" rel="noopener">Arkestra</a> — the same lossless TCP point cloud, live into your Arkestra scene.</p>
     </section>
 
     <hr class="hr">
